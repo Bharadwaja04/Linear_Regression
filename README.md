@@ -81,4 +81,4 @@ Where:
 ```bash
 git clone <your-repo-link>
 cd <repo-folder>
-python linear_regression.py
+python linear_regression.ipynb
